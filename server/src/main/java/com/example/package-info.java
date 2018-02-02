@@ -1,4 +1,4 @@
 /**
-* This is a package name (UPDATE*@)
+* This is a package name (UPDATE*@).
 */
 package com.example;
